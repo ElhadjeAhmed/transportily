@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="font_size">
+            <item>Adrar</item>
+            <item>Chlef</item>
+            <item>Laghouat</item>
+            <item>OumElBouaghi</item>
+            <item>Batna</item>
+            <item>Bejaïa</item>
+            <item>Biskra</item>
+            <item>Béchar</item>
+            <item>Blida</item>
+            <item>Bouira</item>
+            <item>Tamanrasset</item>
+            <item>Tebessa</item>
+            <item>Tlemcen</item>
+            <item>Tiaret</item>
+            <item>TiziOuzou</item>
+            <item>Alger</item>
+            <item>Djelfa</item>
+            <item>Djijel</item>
+            <item>Sétif</item>
+            <item>Saïda</item>
+            <item>Skikda</item>
+            <item>SidiBelAbbès</item>
+            <item>Annaba</item>
+            <item>Guelma</item>
+            <item>Constantine</item>
+            <item>Médéa</item>
+            <item>Mostaganem</item>
+            <item>MSila</item>
+            <item>Mascara</item>
+            <item>Ouargla</item>
+            <item>Oran</item>
+            <item>ElBayadh</item>
+            <item>Illizi</item>
+            <item>BordjBouArreridj</item>
+            <item>Boumerdès</item>
+            <item>ElTarf</item>
+            <item>Tindouf</item>
+            <item>Tissemsilt</item>
+            <item>ElOued</item>
+            <item>Khenchela</item>
+            <item>SoukAhras</item>
+            <item>Tipaza</item>
+            <item>Mila</item>
+            <item>AïnDefla</item>
+            <item>Naâma</item>
+            <item>AïnTémouchent</item>
+            <item>Ghardaia</item>
+            <item>Relizane</item>
+
+
+
+        </string-array>
+
+
+</resources>

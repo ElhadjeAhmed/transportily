@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Transportily</string>
+    <string name="starting">Select Starting Site</string>
+    <string name="Destination">Select Destination Site</string>
+    <string name="default_web_client_id" translatable="false">266410564676-i61c6kffg9uvncknod1rfpd244rlop0m.apps.googleusercontent.com</string>
+    <string-array name="wilaya">
+        <item>16/Alger</item>
+        <item>44/Aïn Defla</item>
+        <item>06/Béjaïa</item>
+        <item>Skikda</item>
+        <item>Annaba</item>
+        <item>Tipaza</item>
+    </string-array>
+</resources>

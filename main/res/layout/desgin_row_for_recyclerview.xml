@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    >
+    <androidx.cardview.widget.CardView
+        android:id="@+id/recCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:padding="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/image_recyclerView_id"
+                android:src="@color/primary"
+                android:layout_width="60dp"
+                android:layout_height="60dp"/>
+
+
+
+
+            <TextView
+                android:id="@+id/tvfirstname_recyelerview_id"
+                android:layout_toRightOf="@+id/image_recyclerView_id"
+                android:layout_marginLeft="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/TextAppearance.AppCompat.Title"
+                android:text="Name"
+                />
+
+            <TextView
+                android:id="@+id/tvlastName_recyclrView_id"
+                android:layout_toRightOf="@+id/image_recyclerView_id"
+                android:layout_marginLeft="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tvfirstname_recyelerview_id"
+                android:maxLength="50"
+                android:singleLine="true"
+                style="@style/TextAppearance.AppCompat.SearchResult.Subtitle"
+                android:text="Des"
+                />
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".manageotp">
+    
+    <EditText
+        android:id="@+id/t2"
+        android:layout_width="270dp"
+        android:layout_height="60dp"
+        android:hint="Enter OTP here"
+        android:inputType="textPersonName"
+        android:textSize="20sp"
+        />
+    <Button
+        android:layout_width="251dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorAccent"
+        android:layout_marginTop="40dp"
+        android:text="Verify and Signin"
+        android:id="@+id/b2"
+
+        />
+
+</LinearLayout>
